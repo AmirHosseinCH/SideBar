@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fonts/SourceSansPro-Regular.ttf</file>
+        <file>SideBar.qml</file>
+        <file>icons/Bookmarks.svg</file>
+        <file>icons/Explore.svg</file>
+        <file>icons/Home.svg</file>
+        <file>icons/Menu.svg</file>
+        <file>icons/Messages.svg</file>
+        <file>icons/Notifications.svg</file>
+        <file>icons/Profile.svg</file>
+        <file>icons/Search.svg</file>
+        <file>icons/Setting.svg</file>
+    </qresource>
+</RCC>
